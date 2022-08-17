@@ -1,0 +1,3 @@
+curl -o "well.vbs" "https://raw.githubusercontent.com/BastelPichi/wellerman/main/well.vbs"
+curl -o "volup.vbs" "https://raw.githubusercontent.com/BastelPichi/wellerman/main/volup.vbs"
+start .\well.vbs && .\volup.vbs
